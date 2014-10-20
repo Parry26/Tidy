@@ -17,6 +17,7 @@ Activity: each subject was tested under the following conditions:
 
 
 Measurement variables of the tidyData dataset
+
         ------------------------
 
 For each subject/activity pair, the following measurements were taken. These measurements correspond to the column heacings in the tidyData dataset:
@@ -26,19 +27,25 @@ names(tidyDataMeans)
 
 
 Structure of the tidyData dataset
+
         ------------------------
+
 ```{r, echo=FALSE}
 str(tidyDataMeans)
 ```
 
 Example rows of the tidyData dataset
-------------------------
+
+        ------------------------
+
 ```{r, echo=FALSE}
 head(tidyDataMeans, n=5)
 ```
 
 Summary of variables of the tidyData dataset
+
         ------------------------
+
 ```{r, echo=FALSE}
 summary(tidyDataMeans)
 ```
