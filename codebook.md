@@ -18,7 +18,6 @@ Activity: each subject was tested under the following conditions:
 
 Measurement variables of the tidyData dataset
 
-        ------------------------
 
 For each subject/activity pair, the following measurements were taken. These measurements correspond to the column heacings in the tidyData dataset:
 
@@ -61,7 +60,6 @@ For each subject/activity pair, the following measurements were taken. These mea
 
 Structure of the tidyData dataset
 
-        ------------------------
 
 ```
 ## 'data.frame':	180 obs. of  68 variables:
@@ -137,7 +135,6 @@ Structure of the tidyData dataset
 
 Example rows of the tidyData dataset
 
-        ------------------------
 
 ```
 ##   Subject           Activity MeantBodyAcc-mean()-X MeantBodyAcc-mean()-Y
@@ -313,7 +310,6 @@ Example rows of the tidyData dataset
 
 Summary of variables of the tidyData dataset
  
-        ------------------------
 
 ```
 ##     Subject                   Activity  MeantBodyAcc-mean()-X
